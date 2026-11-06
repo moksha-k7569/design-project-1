@@ -1,0 +1,2 @@
+Pixels per 10 mm: 171.011695506477
+Millimetres per pixel: 0.05847553274285415
